@@ -1,2 +1,2 @@
-console.log("Hello-world");
-console.log("git dev-1");
+console.log("Welcome to the git");
+console.log("git dev-2");
